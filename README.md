@@ -33,13 +33,11 @@ I have experience teaching the following courses:
 
 ## Contact Information
 
-- Email: fkhan5@tulane.edu (mailto:fkhan5@tulane.edu)
+- Email: fkhan5@tulane.edu
 - Phone: [+1234567890](tel:+1234567890)
 - Website: [www.yourwebsite.com](http://www.yourwebsite.com)
 
 Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
-
-
 
 - [About](about.md)
 - [Research](research.md)
@@ -48,7 +46,7 @@ Feel free to reach out to me if you have any questions or would like to discuss 
 
 ## Disclaimer
 
-This website is created and maintained by me, and the views expressed here are solely my own and do not reflect those of [Your University Name] or any other organization.
+This website is created and maintained by me, and the views expressed here are solely my own and do not reflect those of my university or any other organization.
 
 
 
