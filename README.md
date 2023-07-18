@@ -39,6 +39,17 @@ I have experience teaching the following courses:
 
 Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
 
+
+
+- [About](about.md)
+- [Research](research.md)
+- [Teaching](teaching.md)
+- [CV](cv.md)
+
 ## Disclaimer
 
 This website is created and maintained by me, and the views expressed here are solely my own and do not reflect those of [Your University Name] or any other organization.
+
+
+
+
