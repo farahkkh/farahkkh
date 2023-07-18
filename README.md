@@ -1,4 +1,4 @@
-# PhD Economics Website
+# Farah Khalid Khan
 
 Welcome to my PhD Economics website! This site contains information about my research, publications, and other academic activities.
 
