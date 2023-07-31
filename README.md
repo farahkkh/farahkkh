@@ -15,7 +15,7 @@ I will be on the job market in Fall 2023.
 ### Working Papers
 
 - [Does higher SNAP Purchasing Power Impact Labor Supply?](working_paper1.pdf)
-- [Does geographical variation in SNAP purchasing power impact health and nutrition outcomes? Evidence Using Circana Scanner Data](working_paper2.pdf) 
+- [Does geographical variation in SNAP Purchasing Power impact Health and Nutrition Outcomes? Evidence Using Circana Scanner Data](working_paper2.pdf) 
 - [Fiscal Incidence Analysis of Government Infrastructure Spending (co-authored with James Alm)](working_paper3.pdf)
 
 ### Publications
