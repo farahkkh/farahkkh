@@ -6,7 +6,9 @@ Welcome to my PhD Economics website! This site contains information about my res
 
 ![Profile Picture](profile_picture.jpg)
 
-I am a PhD candidate in Economics at Tulane University. My research interests include Applied Microeconomics, Labor Economics and Development Economics
+I am a PhD candidate at the Economics Department at Tulane University with research interests in the Economics of Safety Net, Labor Economics, Health Economics, Public Finance and Development Economics. My job market paper explores how labor supply responds to geographic variation in SNAP purchasing power. In a related paper, I explore the impact of SNAP purchasing power on health and nutrition outcomes for recipients using restricted access scanner data. My third dissertation paper (co-authored with James Alm) investigates novel methods of applying fiscal incidence to government infrastructure spending. 
+
+I will be on the job market in fall this year.
 
 ## Research
 
