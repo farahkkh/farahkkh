@@ -23,8 +23,8 @@ description              : "PhD candidate at the Economics Department at Tulane 
 url                      : "https://farahkkh.github.io"
 baseurl                  : ""
 repository               : "farahkkh/farahkkh.github.io"
-teaser                   : "/assets/FarahPic.jpg"
-logo                     : "/assets/FarahPic.jpg"
+teaser                   : "/assets/FarahPic.JPG"
+logo                     : "/assets/FarahPic.JPG"
 masthead_title           : "Farah Khalid Khan"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -83,7 +83,7 @@ twitter:
   username               : "farahkkh"
 facebook:
   username               : "farahkkh"
-og_image                 : "/assets/FarahPic.jpg"
+og_image                 : "/assets/FarahPic.JPG"
 social:
   type                   : "Person"
   name                   : "Farah Khalid Khan"
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Farah Khalid Khan"
-  avatar           : "/assets/FarahPic.jpg"
+  avatar           : "/assets/FarahPic.JPG"
   bio              : "PhD candidate at the Economics Department at Tulane University. Research interests in the Economics of Safety Net, Labor Economics, Health Economics, Public Finance and Development Economics."
   location         : "Tulane University"
   email            : "fkhan5@tulane.edu"
