@@ -105,7 +105,15 @@ analytics:
 author:
   name             : "Farah Khalid Khan"
   avatar           : "/assets/FarahPic.JPG"
-  bio              : "PhD candidate at the Economics Department at Tulane University. Research interests in the Economics of Safety Net, Labor Economics, Health Economics, Public Finance and Development Economics."
+  bio              : "I am a PhD candidate at the Economics Department at Tulane University with research interests in the Economics of Transfer Programs, Labor Economics, Health Economics, Public Finance and Development Economics. My job market paper explores how labor supply responds to geographic variation in SNAP purchasing power. In a related paper, I explore the impact of SNAP purchasing power on health and nutrition outcomes for recipients using restricted access scanner data. My third dissertation paper (co-authored with James Alm) investigates novel methods of applying fiscal incidence to government infrastructure spending.
+
+I will be on the job market in Fall 2023. 
+
+You can find my CV here and learn more about my research here.
+
+You can contact me at fkhan5@tulane.edu.
+
+"
   location         : "Tulane University"
   email            : "fkhan5@tulane.edu"
   links:
@@ -283,3 +291,12 @@ defaults:
       comments: # true
       share: true
       related: true
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /CV/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
